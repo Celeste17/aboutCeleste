@@ -1,0 +1,15 @@
+h2{
+    font-size: 22px;
+}
+p{  /*文字排版*/
+    /* font-family: verdana; 可以設定字型 */
+    font-size: 16px;
+    /* text-indent: 32px; 段落開始空兩隔，一個字16px，兩個字32px */
+    /* text-decoration: underline; 下底線，刪除線為line-through */
+    /* letter-spacing: 5px; 字的間距 */
+    
+}
+
+.box{
+    border: 2px solid #ff9ca7;
+}
