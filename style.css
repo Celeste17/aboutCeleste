@@ -12,7 +12,4 @@ p{  /*文字排版*/
 
 .box{
     border: 2px solid #ff9ca7;
-    width: 300px;
-    padding-left: 15px;
-    padding-right: 15px;
 }
